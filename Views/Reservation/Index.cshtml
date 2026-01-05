@@ -1,0 +1,84 @@
+﻿@using Reservation.ViewModels.ReservationViewModel
+@model TripVM
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>FORM</title>
+	<link rel="stylesheet" href="~/./assets/css/resetcss.css">
+	<link rel="stylesheet" href="~/assets/css/container.css">
+	<link rel="stylesheet" href="~/./assets/css/style.css">
+</head>
+
+<body>
+	<div class="container">
+		<div class="form-box">
+			<div class="form-text">
+				<h1>Travel reservation form</h1>
+			</div>
+			<div class="form">
+				<h3>* denotes mandotory</h3>
+				<form asp-action="Create" asp-controller="Reservation" method="post">
+					<label asp-for="@Model.FirstName">First Name*</label>
+					<input asp-for="@Model.FirstName" placeholder="First Name">
+
+					<label asp-for="@Model.LastName">Last Name*</label>
+					<input asp-for="@Model.LastName" placeholder="Last Name">
+
+					<label asp-for="@Model.Email">Email Address*</label>
+					<input asp-for="@Model.Email" placeholder="Email Address">
+
+					<label asp-for="@Model.CityId">Select Tour Package*</label>
+					<select asp-for="@Model.CityId">
+						@foreach (var city in ViewBag.Cities)
+						{
+							<option value="@city.Id">@city.Name</option>
+
+						}
+
+					</select>
+					<label id="blackitems">What would you want to avail?*</label>
+					<div class="checkbox">
+						<div class="checkbox-row">
+							<!-- <label for="boarding">Boarding</label> -->
+							Boarding<input type="checkbox" asp-for="@Model.isBoarding">
+						</div>
+						<div class="checkbox-row">
+							<!-- <label for="fooding">Fooding</label> -->
+							Fooding <input type="checkbox" asp-for="@Model.isFooding">
+						</div>
+						<div class="checkbox-row">
+							<!-- <label for="sightseeing">Sightseeing</label> -->
+							Sightseeing<input type="checkbox" asp-for="@Model.isSightseeing">
+						</div>
+					</div>
+					<label asp-for="@Model.CouponId">Discount Coupon Code:</label>
+					<input asp-for="@Model.CouponId">
+
+					<label for="">Terms and conditions*</label>
+					<div id="blackitems" class="termsandconditions">
+						<div>
+							<label for="agree">I agree</label>
+							<input type="radio" asp-for="@Model.isTermsAccepted" value="true" id="agree">
+						</div>
+						<div>
+							<label for="disagree">I disagree</label>
+							<input type="radio" asp-for="@Model.isTermsAccepted" value="false" id="disagree">
+						</div>
+					</div>
+
+					<span asp-validation-for="@Model.isTermsAccepted" class="text-danger"></span>
+					<button type="submit">Complete Reservation</button>
+
+					@* <div class="button">
+						<a href="~/./success.html">Complete reservation</a>
+					</div> *@
+				</form>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>
