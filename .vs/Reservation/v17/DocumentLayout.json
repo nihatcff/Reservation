@@ -1,81 +1,133 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\Reservation\\",
+  "WorkspaceRootPath": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\areas\\admin\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\areas\\admin\\views\\coupon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\views\\coupon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\areas\\admin\\views\\coupon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\views\\coupon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\views\\reservation\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\reservation\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\viewmodels\\reservationviewmodel\\couponvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:viewmodels\\reservationviewmodel\\couponvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\reservation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:reservation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\viewmodels\\reservationviewmodel\\tripvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:viewmodels\\reservationviewmodel\\tripvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\areas\\admin\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\areas\\admin\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\views\\reservation\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\reservation\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\migrations\\20260105051327_addedtripsandcoupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\reservation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:reservation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\migrations\\20260105051327_addedtripsandcoupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:migrations\\20260105051327_addedtripsandcoupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\migrations\\20260105044805_addedcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\nihat\\onedrive\\desktop\\cff\\reservation\\migrations\\20260105044805_addedcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:migrations\\20260105044805_addedcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -86,67 +138,269 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CityController.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Areas\\Admin\\Controllers\\CityController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CityController.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Areas\\Admin\\Controllers\\CityController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\CityController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T05:21:26.394Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Success.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Reservation\\Success.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reservation\\Success.cshtml",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Reservation\\Success.cshtml",
-              "RelativeToolTip": "Views\\Reservation\\Success.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\Coupon\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Coupon\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\Coupon\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Coupon\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T05:15:05.158Z",
+              "WhenOpened": "2026-01-06T16:25:57.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Reservation\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reservation\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Reservation\\Index.cshtml",
-              "RelativeToolTip": "Views\\Reservation\\Index.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAUwD4AAABLAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\Coupon\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Coupon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\Coupon\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Coupon\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-05T05:34:24.897Z",
+              "WhenOpened": "2026-01-06T16:16:04.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReservationController.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Controllers\\ReservationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ReservationController.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Controllers\\ReservationController.cs",
-              "RelativeToolTip": "Controllers\\ReservationController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBEAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CityController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T05:33:18.684Z",
+              "WhenOpened": "2026-01-06T05:21:26.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:24:45.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouponController.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Controllers\\CouponController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CouponController.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Controllers\\CouponController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CouponController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:36:37.782Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:28:03.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TripVM.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\ViewModels\\ReservationViewModel\\TripVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ReservationViewModel\\TripVM.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\ViewModels\\ReservationViewModel\\TripVM.cs",
+              "RelativeToolTip": "ViewModels\\ReservationViewModel\\TripVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:05:42.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T14:59:57.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CouponVM.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\ViewModels\\ReservationViewModel\\CouponVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ReservationViewModel\\CouponVM.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\ViewModels\\ReservationViewModel\\CouponVM.cs",
+              "RelativeToolTip": "ViewModels\\ReservationViewModel\\CouponVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:08:33.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Models\\Coupon.cs",
+              "RelativeToolTip": "Models\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:57:56.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\City\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\City\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\City\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\City\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T15:18:23.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\City\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\City\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\City\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\City\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T15:26:58.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:48:52.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:39:05.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAI4CAAAAAAAAAAAtwP4CAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T14:42:30.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T14:59:30.581Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T15:00:30.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Views\\Reservation\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservation\\Success.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Views\\Reservation\\Success.cshtml",
+              "RelativeToolTip": "Views\\Reservation\\Success.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T05:15:05.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Views\\Reservation\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Views\\Reservation\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reservation\\Index.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T05:34:24.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "Controllers\\ReservationController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:33:18.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "20260105051327_addedTripsAndCoupons.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Migrations\\20260105051327_addedTripsAndCoupons.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Migrations\\20260105051327_addedTripsAndCoupons.cs",
               "RelativeDocumentMoniker": "Migrations\\20260105051327_addedTripsAndCoupons.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Migrations\\20260105051327_addedTripsAndCoupons.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Migrations\\20260105051327_addedTripsAndCoupons.cs",
               "RelativeToolTip": "Migrations\\20260105051327_addedTripsAndCoupons.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,11 +408,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -166,36 +420,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Trip.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Models\\Trip.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Models\\Trip.cs",
               "RelativeDocumentMoniker": "Models\\Trip.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Models\\Trip.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Models\\Trip.cs",
               "RelativeToolTip": "Models\\Trip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T04:59:47.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:59:47.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Coupon.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Models\\Coupon.cs",
-              "RelativeDocumentMoniker": "Models\\Coupon.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Models\\Coupon.cs",
-              "RelativeToolTip": "Models\\Coupon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T04:57:56.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "20260105044805_addedCities.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Migrations\\20260105044805_addedCities.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Migrations\\20260105044805_addedCities.cs",
               "RelativeDocumentMoniker": "Migrations\\20260105044805_addedCities.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Migrations\\20260105044805_addedCities.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Migrations\\20260105044805_addedCities.cs",
               "RelativeToolTip": "Migrations\\20260105044805_addedCities.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +444,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "GlobalUsing.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\GlobalUsing.cs",
               "RelativeToolTip": "GlobalUsing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,36 +456,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Models\\Common\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Models\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Models\\Common\\BaseEntity.cs",
               "RelativeToolTip": "Models\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T04:43:05.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:43:05.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Models\\City.cs",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Models\\City.cs",
               "RelativeDocumentMoniker": "Models\\City.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Models\\City.cs",
               "RelativeToolTip": "Models\\City.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T04:42:27.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -252,11 +492,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -264,11 +504,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -276,51 +516,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\appsettings.json",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-05T04:31:45.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "Reservation.csproj",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Reservation.csproj",
+              "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Reservation.csproj",
               "RelativeDocumentMoniker": "Reservation.csproj",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Reservation.csproj",
+              "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CFF\\Reservation\\Reservation.csproj",
               "RelativeToolTip": "Reservation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-05T04:27:58.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T04:28:03.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T04:24:45.461Z"
             }
           ]
         }

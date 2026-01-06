@@ -1,0 +1,39 @@
+﻿@model List<CouponVm>
+
+
+<div class="container">
+    <div class="row">
+
+        <div class="row">
+            <div class="col-2">
+
+                <a class="btn btn-success" asp-controller="Coupon" asp-action="Create">Create</a>
+
+            </div>
+        </div>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Expire Date</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var coupon in Model)
+                {
+                    <tr>
+                        <th scope="row">@coupon.Id</th>
+                        <td>@coupon.Title</td>
+                        <td>@coupon.ExpireDate</td>
+
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -13,7 +13,7 @@ namespace Reservation
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<AppDbContext>(option =>
-                option.UseSqlServer(builder.Configuration.GetConnectionString("Default") ?? throw new InvalidOperationException("Connection string 'ReservationContext' not found.")));
+                option.UseSqlServer(builder.Configuration.GetConnectionString("Home") ?? throw new InvalidOperationException("Connection string 'ReservationContext' not found.")));
 
 
             var app = builder.Build();
@@ -34,16 +34,16 @@ namespace Reservation
             app.UseStaticFiles();
 
             app.UseRouting();
-
             app.UseAuthorization();
+
+            app.MapControllerRoute(
+                 name: "areas",
+                 pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
 
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Reservation}/{action=Index}/{id?}");
 
-            app.MapControllerRoute(
-                 name: "areas",
-                 pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
         }

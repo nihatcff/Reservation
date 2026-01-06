@@ -1,0 +1,35 @@
+﻿@model List<City>
+
+<div class="container">
+    <div class="row">
+
+        <div class="row">
+                <a class="btn btn-success" asp-controller ="City" asp-action="Create">Create</a>
+        </div>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Delete City</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var city in Model)
+                {
+                    <tr>
+                        <th scope="row">@city.Id</th>
+                        <td>@city.Name</td>
+                        <td>
+                            <a asp-action="Delete" asp-route-id="@city.Id" class="btn btn-danger"><i class="fa-solid fa-trash-can"></i></a>
+                        </td>
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+    </div>
+</div>
