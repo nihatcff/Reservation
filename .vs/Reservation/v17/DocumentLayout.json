@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\Reservation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\views\\reservation\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\reservation\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\viewmodels\\reservationviewmodel\\tripvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:viewmodels\\reservationviewmodel\\tripvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\Reservation\\Migrations\\20260105051327_addedTripsAndCoupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260105051327_addedTripsAndCoupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\Reservation\\Migrations\\20260105044805_addedCities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260105044805_addedCities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -77,6 +69,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\migrations\\20260105051327_addedtripsandcoupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:migrations\\20260105051327_addedtripsandcoupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|c:\\users\\student\\source\\repos\\reservation\\migrations\\20260105044805_addedcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DBE2D-35A3-4880-9DC3-5B2F8B207364}|Reservation.csproj|solutionrelative:migrations\\20260105044805_addedcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,32 +86,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Reservation\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reservation\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Reservation\\Create.cshtml",
-              "RelativeToolTip": "Views\\Reservation\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-05T06:41:28.543Z",
+              "DocumentIndex": 0,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Areas\\Admin\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Areas\\Admin\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:21:26.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TripVM.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\ViewModels\\ReservationViewModel\\TripVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ReservationViewModel\\TripVM.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\ViewModels\\ReservationViewModel\\TripVM.cs",
-              "RelativeToolTip": "ViewModels\\ReservationViewModel\\TripVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T05:44:55.088Z",
+              "DocumentIndex": 3,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Reservation\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservation\\Success.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Reservation\\Success.cshtml",
+              "RelativeToolTip": "Views\\Reservation\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T05:15:05.158Z",
               "EditorCaption": ""
             },
             {
@@ -122,27 +122,27 @@
               "RelativeDocumentMoniker": "Views\\Reservation\\Index.cshtml",
               "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Reservation\\Index.cshtml",
               "RelativeToolTip": "Views\\Reservation\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwD4AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-05T05:34:24.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ReservationController.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Controllers\\ReservationController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReservationController.cs",
               "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Controllers\\ReservationController.cs",
               "RelativeToolTip": "Controllers\\ReservationController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T05:33:18.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "20260105051327_addedTripsAndCoupons.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Migrations\\20260105051327_addedTripsAndCoupons.cs",
               "RelativeDocumentMoniker": "Migrations\\20260105051327_addedTripsAndCoupons.cs",
@@ -150,8 +150,7 @@
               "RelativeToolTip": "Migrations\\20260105051327_addedTripsAndCoupons.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T05:13:27.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T05:13:27.444Z"
             },
             {
               "$type": "Document",
@@ -163,8 +162,7 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-05T05:04:45.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T05:04:45.778Z"
             },
             {
               "$type": "Document",
@@ -174,7 +172,7 @@
               "RelativeDocumentMoniker": "Models\\Trip.cs",
               "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Models\\Trip.cs",
               "RelativeToolTip": "Models\\Trip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T04:59:47.508Z",
               "EditorCaption": ""
@@ -189,12 +187,11 @@
               "RelativeToolTip": "Models\\Coupon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T04:57:56.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:57:56.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "20260105044805_addedCities.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Migrations\\20260105044805_addedCities.cs",
               "RelativeDocumentMoniker": "Migrations\\20260105044805_addedCities.cs",
@@ -202,8 +199,7 @@
               "RelativeToolTip": "Migrations\\20260105044805_addedCities.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T04:48:05.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:48:05.659Z"
             },
             {
               "$type": "Document",
@@ -215,12 +211,11 @@
               "RelativeToolTip": "GlobalUsing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T04:43:56.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:43:56.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Models\\Common\\BaseEntity.cs",
@@ -233,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Models\\City.cs",
               "RelativeDocumentMoniker": "Models\\City.cs",
@@ -241,12 +236,11 @@
               "RelativeToolTip": "Models\\City.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T04:42:27.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:42:27.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -254,12 +248,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-05T04:41:01.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:41:01.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -267,12 +260,11 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-05T04:39:08.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:39:08.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -280,12 +272,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-05T04:36:26.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:36:26.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -293,25 +284,23 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-05T04:31:45.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:31:45.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Reservation",
+              "DocumentIndex": 9,
+              "Title": "Reservation.csproj",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Reservation.csproj",
               "RelativeDocumentMoniker": "Reservation.csproj",
               "ToolTip": "C:\\Users\\Student\\source\\repos\\Reservation\\Reservation.csproj",
               "RelativeToolTip": "Reservation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-05T04:27:58.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:27:58.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Contexts\\AppDbContext.cs",
@@ -319,12 +308,11 @@
               "RelativeToolTip": "Contexts\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T04:28:03.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:28:03.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Reservation\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -332,8 +320,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T04:24:45.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T04:24:45.461Z"
             }
           ]
         }

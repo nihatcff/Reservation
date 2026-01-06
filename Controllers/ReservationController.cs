@@ -1,30 +1,38 @@
-﻿using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Reservation.Models;
 using Reservation.ViewModels.ReservationViewModel;
 
 namespace Reservation.Controllers
 {
-    public class ReservationController(AppDbContext _context):Controller
+    public class ReservationController : Controller
     {
+        private readonly AppDbContext _context;
+
+        public ReservationController(AppDbContext context)
+        {
+            _context = context;
+        }
+
+        // GET: Reservation
         public async Task<IActionResult> Index()
         {
             ViewBag.Cities = await _context.Cities.ToListAsync();
-            var TripVM = new TripVM();
-            return View(TripVM);
+            return View(new TripVM());
         }
 
-
+        // POST: Reservation/Create
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(TripVM VM)
         {
-            if(!ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-                return View();
+                ViewBag.Cities = await _context.Cities.ToListAsync();
+                return View("Index", VM);
             }
 
-            await _context.Trips.AddAsync(new Trip
+            var trip = new Trip
             {
                 FirstName = VM.FirstName,
                 LastName = VM.LastName,
@@ -35,11 +43,18 @@ namespace Reservation.Controllers
                 isSightseeing = VM.isSightseeing,
                 CouponId = VM.CouponId,
                 isTermsAccepted = VM.isTermsAccepted
-            });
+            };
 
+            await _context.Trips.AddAsync(trip);
             await _context.SaveChangesAsync();
 
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(Success));
+        }
+
+        // GET: Reservation/Success
+        public IActionResult Success()
+        {
+            return View();
         }
     }
 }
